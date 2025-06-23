@@ -1,0 +1,14 @@
+opencv-python
+pymongo
+yt-dlp
+pytz
+pillow
+requests
+numpy
+pydub
+rev-ai
+pyaudio
+google-generativeai
+google-genai
+pygame
+compreface-sdk
